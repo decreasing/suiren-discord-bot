@@ -1,6 +1,10 @@
 # Suiren-Discord-Bot
 so I love gambling and discord so I decided to learn node.js and started this project way back spring of 2020
 
+**Download links:**
+https://code.visualstudio.com/
+https://nodejs.org/en/
+
 # Commands:
 - **prefix:** s!
 
